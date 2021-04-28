@@ -3,6 +3,8 @@
 ## Single board computers
 
 * RaspberryPi
+* OrangePi
+* odroid
 
 ## SoC
 

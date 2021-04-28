@@ -49,6 +49,12 @@
 * mitmproxy
 * squid
 
+### TLS/SSL
+
+* [testssl.sh](https://testssl.sh/)
+* [ssllabs.com](https://www.ssllabs.com/)
+* [sslyze](https://github.com/nabla-c0d3/sslyze)
+
 ### HTTP servers/loadbalancer
 
 * NGINX
@@ -126,6 +132,7 @@
 
 * Jenkins
 * Azure pipelines
+* GitHub actions
 * Teamcity
 
 ### Build tools
@@ -151,3 +158,9 @@
 * Ghidra
 * OllyDBG
 * x64dbg
+
+## Passwords managers
+
+* [bitwarden](https://bitwarden.com/)
+* [keepasxc](https://keepassxc.org/)
+* [passbolt](https://www.passbolt.com/)
