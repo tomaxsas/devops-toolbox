@@ -54,6 +54,8 @@
 * [testssl.sh](https://testssl.sh/)
 * [ssllabs.com](https://www.ssllabs.com/)
 * [sslyze](https://github.com/nabla-c0d3/sslyze)
+* mkcerts
+* 
 
 ### HTTP servers/loadbalancer
 
@@ -159,8 +161,10 @@
 * OllyDBG
 * x64dbg
 
-## Passwords managers
+## Passwords/secrets managers
 
 * [bitwarden](https://bitwarden.com/)
 * [keepasxc](https://keepassxc.org/)
 * [passbolt](https://www.passbolt.com/)
+* vault
+* mozilla sops
