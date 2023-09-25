@@ -80,6 +80,7 @@
 * Prometheus
 * Grafana
 * ELK Stack
+* netdata.cloud
 
 ## Virtualization
 
